@@ -14,4 +14,3 @@ for t in time_parts:
             hours = int(part.replace('h', ''))
             total_sec += hours * 3600
 print(total_sec)
-
